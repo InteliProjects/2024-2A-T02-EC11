@@ -16,15 +16,20 @@ Desenvolvimento de sistemas de inteligência artificial com processamento na bor
 
 - Grupo 1 - G1
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T02-EC11-G01
+  - https://github.com/Inteli-College/2024-2A-T02-EC11-G01
 
 - Grupo 2 - G2
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T02-EC11-G02
+  - https://github.com/Inteli-College/2024-2A-T02-EC11-G02
 
 - Grupo 3 - Deméter
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T02-EC11-G03
+  - https://github.com/Inteli-College/2024-2A-T02-EC11-G03
 
 - Grupo 4 - Greentch
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T02-EC11-G04
+  - https://github.com/Inteli-College/2024-2A-T02-EC11-G04
 
 - Grupo 5 - G5
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T02-EC11-G05
+  - https://github.com/Inteli-College/2024-2A-T02-EC11-G05
